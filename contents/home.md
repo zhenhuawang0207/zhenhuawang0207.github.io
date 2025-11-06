@@ -9,8 +9,8 @@ He is currently a Master's student majoring in Cybersecurity at the School of Cy
 Email: wangzhenhua[at]hdu[dot]edu[dot]cn
 
 #### Education
-M.E., Cybersecurity, School of Cyberspace, Hangzhou Dianzi University, 2024—Present.\
-B.E., Cybersecurity, Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences), 2020—2024.
+M.E., Cybersecurity, Hangzhou Dianzi University, 2024—Present.\
+B.E., Cybersecurity, Qilu University of Technology (Shandong Academy of Sciences), 2020—2024.
 
 #### Research Interests
 Deep Learning, Active Defense against Deepfakes, Binary Vulnerability Research and Exploitation.
